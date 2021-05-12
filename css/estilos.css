@@ -1,0 +1,54 @@
+body {
+    background-color:white;
+    color:black;
+    
+    margin:0 4px 0 0;
+    
+}
+
+p1 {color:#f37360;
+	font-weight: bold;
+	font-size: 16px;
+	font-family:Verdana;
+}
+
+p2 {color:#21a4a4;
+	font-weight: bold;
+	font-size: 16px;
+	font-family:Verdana;
+}
+
+p3 {color:#fac866;
+	font-weight: bold;
+	font-size: 16px;
+	font-family:Verdana;
+}
+p{ 	font-family:Calibri;
+	font-size: 14px;
+}
+
+h2 {color: black;
+	font-family:Verdana;
+	font-size: 18px;
+	} 
+	
+div.d {
+  text-align: justify;
+} 
+
+div{
+	justify-content:center;
+	align-items: center;
+  } 
+
+#mapid {
+  height: 600px;
+  width: 1200px;
+  display: center;
+}
+
+/* #f37360 rojo*/
+
+/* #21a4a4 azul  */
+
+/* #fac866 amarillo  */
